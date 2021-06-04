@@ -5,9 +5,9 @@
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JS, ReactJS, NodeJS, SQL, NoSQL
 - 📫 How to reach me: ericnevesr@gmail.com
 
-<a href="https://www.linkedin.com/in/ericnevesrr/" target="_blank">
+<a href="https://www.linkedin.com/in/ericnevesrr/">
     <img src="./assets/img/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/eric_nevesr/" target="_blank">
+<a href="https://www.instagram.com/eric_nevesr/">
     <img src="./assets/img/instagram.png" />
 </a>

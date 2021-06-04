@@ -5,9 +5,9 @@
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me: ericnevesr@gmail.com
 
-<a href="https://www.linkedin.com/in/ericnevesrr/" target="_blank">
+<a align="center" href="https://www.linkedin.com/in/ericnevesrr/" target="_blank">
     <img src="./assets/img/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/eric_nevesr/" target="_blank">
+<a align="center" href="https://www.instagram.com/eric_nevesr/" target="_blank">
     <img src="./assets/img/instagram.png" />
 </a>

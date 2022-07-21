@@ -8,6 +8,6 @@
 <a href="https://www.linkedin.com/in/ericnevesrr/">
     <img src="./assets/img/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/eric_nevesr/">
+<a href="https://www.instagram.com/ericneves_dev/">
     <img src="./assets/img/instagram.png" />
 </a>

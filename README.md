@@ -2,7 +2,7 @@
 
 <p>I'm a web development student and passionate about web technologies.</p>
 
-- 👨🏽‍💻 I’m currently learning NodeJS, ReactJS, SQL, NoSQL
+- 👨🏽‍💻 I’m currently learning Java, OOP
 - 📫 How to reach me: ericnevesr@gmail.com
 
 <a href="https://www.linkedin.com/in/ericnevesrr/">

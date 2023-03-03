@@ -2,9 +2,9 @@
 
 <p>I'm a web development student and passionate about web technologies.</p>
 
+- 🏢 Currently job: IT Assistant 
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JAVA OOP, JS, NodeJS, ReactJS, SQL, NoSQL
 - 📫 How to reach me: ericnevesr@gmail.com
-- 🏢 Currently job: IT Assistant 
 
 <a href="https://www.linkedin.com/in/ericnevesrr/">
     <img src="./assets/img/linkedin.png" />

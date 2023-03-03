@@ -2,7 +2,7 @@
 
 <p>I'm a web development student and passionate about web technologies.</p>
 
-- 🏢 Currently job: IT Assistant - <a target="_blank" href="https://anoregam.org.br/">ANOREG/AM</a>
+- 🏢 Currently job: IT Assistant - <a href="https://anoregam.org.br/">ANOREG/AM</a>
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JAVA OOP, JS, NodeJS, ReactJS, SQL, NoSQL
 - 📫 How to reach me: ericnevesr@gmail.com
 

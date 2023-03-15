@@ -6,9 +6,15 @@
 - 👨🏽‍💻 I’m currently learning HTML, CSS, JAVA OOP, JS, NodeJS, ReactJS, SQL, NoSQL
 - 📫 How to reach me: ericnevesr@gmail.com
 
+#### I'm currently learning:
+
+* <img src="https://img.shields.io/youtube/channel/views/UCZ0u3vQ-lx6giHb4JU81wSA?style=for-the-badge&logo=youtube&logoColor=white">
+
 <a href="https://www.linkedin.com/in/ericnevesrr/">
     <img src="./assets/img/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/ericneves_dev/">
     <img src="./assets/img/instagram.png" />
 </a>
+
+ 

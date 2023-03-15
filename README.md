@@ -17,6 +17,8 @@
 <a href="https://www.instagram.com/ericneves_dev/">
     <img src="./assets/img/instagram.png" />
 </a>
+<a href="https://www.youtube.com/@nevescode">
+    <img src="https://img.shields.io/youtube/channel/views/UCZ0u3vQ-lx6giHb4JU81wSA?style=for-the-badge&logo=youtube&logoColor=white" height="32px">
+</a>
 
  
-//https://img.shields.io/youtube/channel/views/UCZ0u3vQ-lx6giHb4JU81wSA?style=for-the-badge&logo=youtube&logoColor=white

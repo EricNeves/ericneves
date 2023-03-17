@@ -3,7 +3,6 @@
 <p>I'm a web development student and passionate about web technologies.</p>
 
 - 🌏 I'm brazilian 
-- 🏢 Currently job: IT Assistant - <a href="https://anoregam.org.br/">ANOREG/AM</a>
 
 #### 👨‍💻 I'm currently learning :
 

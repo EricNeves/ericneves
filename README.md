@@ -21,7 +21,7 @@ I'm a web development student and passionate about web technologies.
     <img src="./assets/img/instagram.png" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericneves&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericneves&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
  

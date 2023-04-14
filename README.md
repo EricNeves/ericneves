@@ -4,6 +4,8 @@ I'm a web development student and passionate about web technologies.
 
 - 🌏 I'm brazilian 
 - 💻 Information security enthusiast
+- 💬 Ask me about:
+    - HTML | CSS | JavaScript | React | NodeJS | SQL | NoSQL
 
 #### 🚀 My Skills :
 <img src="https://img.icons8.com/color/256/html-5.png" width="42px"><img src="https://img.icons8.com/fluency/256/css3.png"  width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px">

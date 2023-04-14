@@ -21,5 +21,7 @@ I'm a web development student and passionate about web technologies.
     <img src="./assets/img/instagram.png" />
 </a>
 
+![Eric Neves](https://github-readme-stats.vercel.app/api?username=ericneves&show_icons=true&theme=radical)
+
 
  

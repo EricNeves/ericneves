@@ -8,11 +8,11 @@ I'm a web development student and passionate about web technologies.
     - HTML | CSS | JavaScript | NodeJS | React | NextJS | SQL | NoSQL
 
 #### 🚀 My Skills :
-<img src="https://img.icons8.com/color/256/html-5.png" width="42px"><img src="https://img.icons8.com/fluency/256/css3.png"  width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png"  width="42px">
+<img src="https://img.icons8.com/color/256/html-5.png" width="42px"><img src="https://img.icons8.com/fluency/256/css3.png"  width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px">
 
 #### 💻 I'm currently learning :
 
-<img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/color/256/mongodb.png"  width="42px">
+<img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/color/256/mongodb.png"  width="42px">
 
 #### 🛰 How to reach me:
 

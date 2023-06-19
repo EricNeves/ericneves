@@ -4,6 +4,7 @@ I'm a web development student and passionate about web technologies.
 
 - 🌏 I'm brazilian 
 - 💻 Information security enthusiast
+- 📜 Basic English
 - 💬 Ask me about:
     - HTML | CSS | JavaScript | NodeJS | React | NextJS | SQL | NoSQL | Linux
 

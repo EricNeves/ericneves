@@ -1,6 +1,6 @@
 # Hey there, I'm Eric Neves 👋
 
-I'm a web development student and passionate about web technologies.
+I'm a web development and passionate about web technologies.
 
 - 🌏 I'm brazilian 
 - 💻 Information security enthusiast

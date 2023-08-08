@@ -6,7 +6,11 @@ I'm a web development and passionate about web technologies.
 - 💻 Information security enthusiast
 - 📜 Basic English
 - 💬 Ask me about:
-    - HTML | CSS | PHP | JavaScript | NodeJS | React | NextJS | SQL | NoSQL | Linux
+    - HTML | CSS | JavaScript
+    - PHP | NodeJS
+    - React | NextJS
+    - SQL | NoSQL
+    - Docker, Linux
 
 #### 🚀 My Skills :
 <img src="https://img.icons8.com/color/256/html-5.png" width="42px"><img src="https://img.icons8.com/fluency/256/css3.png"  width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png"  width="42px"><img src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=62452&format=png" width="42px">

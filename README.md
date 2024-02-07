@@ -8,7 +8,7 @@ I'm a web development and passionate about web technologies.
 - 💬 Ask me about:
     - HTML | CSS | JavaScript
     - PHP | NodeJS
-    - React | NextJS
+    - Angular | React | NextJS
     - SQL | NoSQL
     - Docker | Linux
 

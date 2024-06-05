@@ -1,4 +1,4 @@
-# Hey there, I'm Eric Neves 👋
+# Hey there, I'm Eric Neves 🧑‍🚀
 
 I'm a web development and passionate about web technologies.
 
@@ -6,11 +6,12 @@ I'm a web development and passionate about web technologies.
 - 💻 Information security enthusiast
 - 📜 Basic English
 - 💬 Ask me about:
-    - HTML | CSS | JavaScript
     - PHP | NodeJS
     - Angular | React | NextJS
     - SQL | NoSQL
-    - PHP Unit - Jest
+    - Solid Principles | Clean Code
+    - Design Patterns
+    - GIT
     - Docker | Linux
 
 #### 🚀 My Skills :

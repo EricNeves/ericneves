@@ -11,6 +11,10 @@ I'm a web development and passionate about web technologies.
     - SQL | NoSQL
     - Solid Principles | Clean Code
     - Design Patterns
+    - Architectures
+        - MVC
+        - Layered (N Camadas)
+        - Ports and Adapters  
     - GIT
     - Docker | Linux
 

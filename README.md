@@ -5,6 +5,9 @@ I'm a web development and passionate about web technologies.
 - 🌏 I'm brazilian 
 - 💻 Information security enthusiast
 - 📜 Basic English
+- 📚 Favorite Books:
+    - Estrutura de Dados e Algoritmos com Javascript - Loiane Groner
+    - Arquitetura Limpa - Robert C. Martin
 - 💬 Ask me about:
     - PHP | NodeJS
     - Angular | React | NextJS

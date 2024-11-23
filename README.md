@@ -16,7 +16,7 @@ I'm a web development and passionate about web technologies.
     - Design Patterns
     - Architectures
         - MVC
-        - Layered (N Camadas)
+        - Layered Architecture
         - Ports and Adapters  
     - GIT
     - Docker | Linux

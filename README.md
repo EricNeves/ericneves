@@ -8,6 +8,8 @@ I'm a web development and passionate about web technologies.
 - 📚 Favorite Books:
     - Estrutura de Dados e Algoritmos com Javascript - Loiane Groner
     - Arquitetura Limpa - Robert C. Martin
+    - Dopamina a molecula do desejo
+    - Sapiens - Uma Breve História da Humanidade
 - 💬 Ask me about:
     - PHP | NodeJS
     - Angular | React | NextJS

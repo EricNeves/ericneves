@@ -14,8 +14,7 @@ I'm a web development and passionate about web technologies.
     - PHP | NodeJS
     - Angular | React | NextJS
     - SQL | NoSQL
-    - Solid Principles | Clean Code
-    - Component Principles (REP | CCP | CRP)
+    - Solid Principles | Clean Code | Component Principles 
     - Design Patterns
     - Architectures
         - MVC

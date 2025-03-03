@@ -28,7 +28,7 @@ I'm a web development and passionate about web technologies.
 
 #### 💻 I'm currently learning :
 
-<img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/color/256/mongodb.png"  width="42px">
+<img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/color/256/mongodb.png"  width="42px"><img src="https://img.icons8.com/?size=256&id=9ESZMOeUioJS&format=png" width="42px">
 
 #### 🛰 How to reach me:
 

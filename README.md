@@ -6,11 +6,16 @@ I'm a web development and passionate about web technologies.
 - 💻 Information security enthusiast
 - 📜 Basic English
 - 💬 Ask me about:
-    - PHP | NodeJS
+    - PHP | NodeJS | Laravel | NestJS
     - Angular | React | NextJS
     - SQL | NoSQL
     - Solid Principles | Clean Code | Component Principles 
     - Design Patterns
+    - Observability
+        - Elastic Stack (Elasticsearch, Logstash, Grafana, Beats, etc)
+        - OpenTelemetry
+        - Jaeger
+        - Prometheus
     - Architectures
         - MVC
         - Layered Architecture

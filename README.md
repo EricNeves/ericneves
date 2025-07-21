@@ -35,7 +35,7 @@ I'm a web development and passionate about web technologies.
 <a href="https://www.linkedin.com/in/ericnevesrr/">
     <img src="./assets/img/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/ericneves_dev/">
+<a href="https://www.instagram.com/ericnevesr/">
     <img src="./assets/img/instagram.png" />
 </a>
 

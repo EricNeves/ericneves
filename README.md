@@ -16,6 +16,10 @@ I'm a web development and passionate about web technologies.
         - OpenTelemetry
         - Jaeger
         - Prometheus
+    - DDD
+        - Domain
+        - Subdomain (Main, Generic and Suport)
+        - Bounded Context
     - Architectures
         - MVC
         - Layered Architecture

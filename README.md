@@ -20,6 +20,7 @@ I'm a web development and passionate about web technologies.
         - Domain
         - Subdomain (Main, Generic and Suport)
         - Bounded Context
+        - Value Objects | Aggregates | Domain Events/Services
     - Architectures
         - MVC
         - Layered Architecture

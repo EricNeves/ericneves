@@ -1,47 +1,31 @@
-# Hey there, I'm Eric Neves 🧑‍🚀
+### $ uname -a
 
-I'm a web development and passionate about web technologies.
+Olá, me chamo Eric Neves, sou desenvolvedor web e apaixonado por tecnologia.
 
-- 🌏 I'm brazilian 
-- 💻 Information security enthusiast
-- 📜 Basic English
-- 💬 Ask me about:
-    - PHP | NodeJS | Laravel | NestJS
-    - Angular | React | NextJS
-    - SQL | NoSQL
-    - Solid Principles | Clean Code | Component Principles 
-    - Design Patterns
-    - Observability
-        - Elastic Stack (Elasticsearch, Logstash, Grafana, Beats, etc)
-        - OpenTelemetry
-        - Jaeger
-        - Prometheus
-    - DDD
-        - Domain
-        - Subdomain (Main, Generic and Suport)
-        - Bounded Context
-        - Value Objects | Aggregates | Domain Events/Services
-    - Architectures
-        - MVC
-        - Layered Architecture
-        - Ports and Adapters  
-    - GIT
-    - Docker | Linux
+Atuo com desenvolvimeto web há aproximadamente 3 anos, desenvolvendo sistemas que atendem usuários no Brasil e no exterior,
+criando desde o zero sistemas ricos que agregam valor ao negócio, até a manutenção e evolução de sistemas legados.
 
-#### 🚀 My Skills :
-<img src="https://img.icons8.com/?size=512&id=qcPZJD5DNDto&format=png" width="42px"><img src="https://img.icons8.com/?size=120&id=UG5EO81XNkPs&format=png" width="42px"><img src="https://img.icons8.com/fluency/256/javascript.png"  width="42px"><img src="https://img.icons8.com/fluency/256/node-js.png"  width="42px"><img src="https://img.icons8.com/?size=512&id=22813&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=j9DnICNnlhGk&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=JRnxU7ZWP4mi&format=png" width="42px"><img src="https://img.icons8.com/?size=256&id=bp24DwGXJDyT&format=png" width="42px"><img src="https://img.icons8.com/?size=512&id=20906&format=png" width="42px"><img src="https://img.icons8.com/external-others-amoghdesign/256/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png"  width="42px"><img src="https://img.icons8.com/?size=256&id=9ESZMOeUioJS&format=png" width="42px">
+Minhas ferramentas principais são:
 
-#### 💻 I'm currently learning :
-<img src="https://img.icons8.com/color/256/mongodb.png" width="42px"><img src="https://img.icons8.com/?size=512&id=THRPlyXrzBJk&format=png" width="42px"><img src="https://img.icons8.com/?size=160&id=dYeOB8XFgV0C&format=png" width="36px"><img src="https://img.icons8.com/?size=256&id=Ei4ZhVQvIMHE&format=png" width="42px">
+- PHP (Laravel) | NodeJS (NestJS / ExpressJS)
+- JavaScript (Angular / React)
+- PostgreSQL | MongoDB | Redis 
+- Docker | Linux
+- Git | GitHub | GitLab
+- CI/CD (GitHub Actions)
+- Design Patterns
+- Testes Automatizados 
+- SOLID Principles | Component Principles | Clean Architecture
+- Observabilidade (Elastic Stack, OpenTelemetry, Jaeger)
 
+Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre buscando aprender mais sobre o assunto e amante da leitura.
 
-#### 🛰 How to reach me:
+🛠 Atualmente estou focado em:
+- Micro Serviços
+- Domain Driven Design (DDD)
 
-<a href="https://www.linkedin.com/in/ericnevesrr/">
-    <img src="./assets/img/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/ericnevesr/">
-    <img src="./assets/img/instagram.png" />
-</a>
+📫 Como me encontrar:
 
- 
+[💬 Linkedin](https://www.linkedin.com/in/ericnevesrr/)
+
+[📸 Instagram](https://www.instagram.com/ericnevesr/)

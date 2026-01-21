@@ -1,3 +1,5 @@
+### eric@neves:~$ uname -a
+
 Olá, me chamo Eric Neves, sou desenvolvedor web e apaixonado por tecnologia.
 
 Atuo com desenvolvimento web há aproximadamente 3 anos, desenvolvendo sistemas que atendem usuários no Brasil e no exterior. 

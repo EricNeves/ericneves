@@ -18,7 +18,7 @@ Minhas principais ferramentas são:
 - Princípios SOLID | Component Principles | Clean Architecture 
 - Observabilidade (Elastic Stack, OpenTelemetry, Jaeger)
 
-Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre buscando aprender mais sobre o assunto, e amante da leitura.
+Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre buscando aprender mais sobre o assunto, e amante do jiu jitsu e da leitura.
 
 🛠 Atualmente estou focado em:
 

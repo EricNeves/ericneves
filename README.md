@@ -24,6 +24,8 @@ Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre bu
 
 - Microsserviços 
 - Domain-Driven Design (DDD)
+- Design Pattern
+- AWS
 
 📫 Como me encontrar:
 

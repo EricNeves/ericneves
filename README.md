@@ -24,6 +24,7 @@ Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre bu
 
 - Microsserviços
 - C# (.NET, Minimal APIs, EF Core)
+- CQRS
 - Domain-Driven Design (DDD)
 - Design Pattern
 - AWS

@@ -7,7 +7,7 @@ Trabalho desde a criação de sistemas ricos desenvolvidos do zero, que agregam 
 
 Minhas principais ferramentas são:
 
-- PHP (Laravel) | Node.js (NestJS / ExpressJS)
+- PHP (Laravel) | Node.js (NestJS)
 - JavaScript (Angular / React)
 - PostgreSQL | MongoDB | Redis 
 - Docker | Linux 

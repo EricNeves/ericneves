@@ -23,8 +23,6 @@ Fora do desenvolvimento, sou entusiasta de segurança da informação, sempre bu
 🛠 Atualmente estou focado em:
 
 - Microsserviços
-- C# (.NET, Minimal APIs, EF Core)
-- CQRS
 - Domain-Driven Design (DDD)
 - Design Pattern
 - AWS

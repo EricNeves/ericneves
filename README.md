@@ -2,7 +2,7 @@
 
 Olá, me chamo Eric Neves, sou desenvolvedor web e apaixonado por tecnologia.
 
-Atuo com desenvolvimento web há aproximadamente 3 anos, desenvolvendo sistemas que atendem usuários no Brasil e no exterior. 
+Atuo com desenvolvimento web há aproximadamente 5 anos, desenvolvendo sistemas que atendem usuários no Brasil e no exterior. 
 Trabalho desde a criação de sistemas ricos desenvolvidos do zero, que agregam valor ao negócio, até a manutenção e evolução de sistemas legados.
 
 Minhas principais ferramentas são:
